@@ -124,7 +124,7 @@ a{
     margin-left: 130px;
     margin-right:60px;
     border-radius: 20px;
-    background-image:url("/img/my2.jpeg");
+    background-image:url("img/my2.JPEG");
     background-size: 306.82px 455px;
     background-repeat: no-repeat;
     filter: grayscale(1);
@@ -238,7 +238,7 @@ a{
 }
 
 #b1{
-    background-image: url("/img/pylogo.png");
+    background-image: url("/img/pylogo.PNG");
 }
 
 #b2{
