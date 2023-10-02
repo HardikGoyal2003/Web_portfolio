@@ -40,7 +40,7 @@ li:hover{
     position: relative;
     bottom:27px;
     background-size: cover;
-    background-image:url("https://hardikgoyal2003.github.io/Web_portfolio/img/1.jpg");
+    background-image:url("https://hardikgoyal2003.github.io/Web_portfolio/image/1.jpg");
 }
 
 .one{
@@ -116,7 +116,7 @@ a{
     
 }
 
-#img{
+#image{
     height: 65%;
     position: relative;
     width:306.82px;
@@ -124,7 +124,7 @@ a{
     margin-left: 130px;
     margin-right:60px;
     border-radius: 20px;
-    background-image:url("https://hardikgoyal2003.github.io/Web_portfolio/img/my2.jpeg");
+    background-image:url("https://hardikgoyal2003.github.io/Web_portfolio/image/my2.jpeg");
     background-size: 306.82px 455px;
     background-repeat: no-repeat;
     filter: grayscale(1);
@@ -134,7 +134,7 @@ a{
 
 }
 
-#img:hover{
+#image:hover{
     filter: none;
 }
 
@@ -223,7 +223,7 @@ a{
     box-shadow: 1px 1px 10px white;
 }
 
-.img-s{ 
+.image-s{ 
     width: 60px;
     height: 60px;
 }
@@ -238,47 +238,47 @@ a{
 }
 
 #b1{
-    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/img/pylogo.PNG");
+    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/image/pylogo.png");
 }
 
 #b2{
-    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/img/cpp.PNG");
+    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/image/cpp.png");
 }
 
 #b3{
-    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/img/html.png");
+    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/image/html.png");
 }
 
 #b4{
-    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/img/css.png");
+    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/image/css.png");
 }
 
 #b5{
-    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/img/c.png");
+    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/image/c.png");
 }
 
 #b6{
-    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/img/sql.png");
+    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/image/sql.png");
 }
 
 #b7{
-    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/img/github.png");
+    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/image/github.png");
 }
 
 #b8{
-    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/img/git.png");
+    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/image/git.png");
 }
 
 #b9{
-    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/img/ps.png");
+    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/image/ps.png");
 }
 
 #b10{
-    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/img/af.png");
+    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/image/af.png");
 }
 
 #try{
-    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/img/lock.png");
+    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/image/lock.png");
 }
 
 #txt2{
@@ -325,7 +325,7 @@ a{
     flex-flow:row wrap;
 }
  
-.edu_img{
+.edu_image{
     height: 100px;
     width: 10%;
     background-color: white;
@@ -334,18 +334,18 @@ a{
 }
 
 #e1{
-    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/img/abes.png");
+    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/image/abes.png");
     background-size: cover;
     background-position: center;
 }
 
 #e2{
-    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/img/ccdps.png");
+    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/image/ccdps.png");
     background-position: center;
 }
 
 #e3{
-    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/img/bvm.png");
+    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/image/bvm.png");
 }
 
 .edu_txt2{
@@ -376,11 +376,11 @@ a{
 
 
 #p1{
-    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/img/p1.png");
+    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/image/p1.png");
 }
 
 #p2{
-    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/img/p2.png");
+    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/image/p2.png");
 }
 
 .projects{
@@ -441,7 +441,7 @@ a{
 }
 
 #upcoming_pro{
-    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/img/lock.png");
+    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/image/lock.png");
     background-size: 100px 100px;
     background-repeat: no-repeat;
     background-position: center;
@@ -450,7 +450,7 @@ a{
 
 
 #u1{
-    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/img/lock.png");
+    background-image: url("https://hardikgoyal2003.github.io/Web_portfolio/image/lock.png");
     width: 120px;
     height: 120px;
     position: relative;
