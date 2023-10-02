@@ -40,7 +40,7 @@ li:hover{
     position: relative;
     bottom:27px;
     background-size: cover;
-    background-image:url("/img/1.JPG");
+    background-image:url("https://hardikgoyal2003.github.io/Web_portfolio/img/1.JPG");
 }
 
 .one{
@@ -124,7 +124,7 @@ a{
     margin-left: 130px;
     margin-right:60px;
     border-radius: 20px;
-    background-image:url("img/my2.JPEG");
+    background-image:url("https://hardikgoyal2003.github.io/Web_portfolio/img/my2.jpeg");
     background-size: 306.82px 455px;
     background-repeat: no-repeat;
     filter: grayscale(1);
