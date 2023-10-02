@@ -116,7 +116,7 @@ a{
     
 }
 
-#img{
+#photo{
     height: 65%;
     position: relative;
     width:306.82px;
@@ -135,7 +135,7 @@ a{
 
 }
 
-#img:hover{
+#photo:hover{
     filter: none;
 }
 
@@ -326,7 +326,7 @@ a{
     flex-flow:row wrap;
 }
  
-.edu_img{
+.edu_photo{
     height: 100px;
     width: 10%;
     background-color: white;
